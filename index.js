@@ -28,6 +28,7 @@ function guessNumber() {
       else {
       console.log(`wrong!. The correct answer is ${random}\nlevel: ${stage}\nScore: ${points}, Try again`);
       break
+      
     }
         
       
